@@ -150,7 +150,7 @@ const AreaAluno = () => {
         <section className="grid grid-cols-1 md:grid-cols-2">
           <PlatformCard
             variant="primary"
-            title="Plataforma Segunda Licenciatura Formação Pedagógica R2 Graduação"
+            title="Plataforma Segunda Licenciatura Formação Pedagógica R4 Graduação"
             href="https://www.faculdadeeducamais.edu.br/acesso-aluno.php"
           />
           <PlatformCard
